@@ -1,0 +1,2 @@
+# Aoijs-V6-Ekonomi-Botu
+V6 EKONOMİ BOTUDUR İZİNSİZ PAYLASMAK YASAKTİR
