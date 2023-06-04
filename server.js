@@ -21,7 +21,7 @@ const bot = new AoiClient({
 });
 
 const loader = new LoadCommands(bot);
-loader.load(bot.cmd, "./komutlar/") //you can change this to any directory you want
+loader.load(bot.cmd, "./komutlar/") //Komutları Yükler.
 //Ping Komutu Elleme!
 bot.command({
 name: "ping",
