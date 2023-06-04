@@ -2,4 +2,4 @@
 npm i yazın bu gerekli modulleri indirecektir
 node server.js yazin bu botu baslatacaktir
 
-ALTYAPİYİ İSİNSİZ VERMEK YASAKTİR
+ALTYAPİYİ İSİNSİZ PAYLASMAK YASAKTİR
