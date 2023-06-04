@@ -1,2 +1,5 @@
 # Aoijs-V6-Ekonomi-Botu
-V6 EKONOMİ BOTUDUR İZİNSİZ PAYLASMAK YASAKTİR
+npm i yazın bu gerekli modulleri indirecektir
+node server.js yazin hu botu baslatacaktir
+
+ALTYAPİYİ İSİNSİZ VERMEK YASAKTİR
