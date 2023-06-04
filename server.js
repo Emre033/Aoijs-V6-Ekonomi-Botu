@@ -21,7 +21,7 @@ const bot = new AoiClient({
 });
 
 const loader = new LoadCommands(bot);
-loader.load(bot.cmd, "./komutlar/") //Komutları Yükler.
+loader.load(bot.cmd, "./komutlar/") //Komutları Yükler Elleme!
 //Ping Komutu Elleme!
 bot.command({
 name: "ping",
